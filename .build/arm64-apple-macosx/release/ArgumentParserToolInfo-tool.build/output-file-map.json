@@ -1,0 +1,12 @@
+{
+  "": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ArgumentParserToolInfo.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ArgumentParserToolInfo.o",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/master.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ToolInfo.swiftdeps"
+  }
+}

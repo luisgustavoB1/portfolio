@@ -1,0 +1,62 @@
+{
+  "": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/IgniteStarter.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/IgniteStarter.o",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/master.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/Footer.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Footer.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Footer~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Footer.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/NavBar.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/NavBar.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/NavBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/NavBar.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/ProfileSection.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/ProfileSection.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/ProfileSection~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/ProfileSection.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/ProjectCard.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/ProjectCard.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/ProjectCard~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/ProjectCard.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/ProjectsSection.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/ProjectsSection.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/ProjectsSection~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/ProjectsSection.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Enums/LanguageCategory.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/LanguageCategory.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/LanguageCategory~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/LanguageCategory.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Models/Project.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Project.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Project~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Project.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Pages/AboutPage.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/AboutPage.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/AboutPage~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/AboutPage.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Pages/Home.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Home.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Home~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Home.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Site.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Site.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Site~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/Site.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Themes/MainTheme.swift": {
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/MainTheme.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/MainTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/release/IgniteStarter.build/MainTheme.swiftdeps"
+  }
+}

@@ -1,0 +1,16 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "7fa2d192ae3393ea0690dfe3264dfc5418da8f2a5ea682b33de9d48c5d475e25"
+build_start_time: [1740325396, 692181000]
+build_end_time: [1740325396, 799747000]
+inputs:
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/Footer.swift": !dirty [1740324318, 604508645]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/NavBar.swift": !dirty [1740324171, 727246452]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/ProfileSection.swift": !dirty [1740319745, 473958568]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/ProjectCard.swift": !dirty [1740324282, 9311795]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Components/ProjectsSection.swift": !dirty [1740324318, 604711937]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Enums/LanguageCategory.swift": !dirty [1740318920, 301807603]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Models/Project.swift": !dirty [1740322880, 752178165]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Pages/AboutPage.swift": !dirty [1740324318, 604501353]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Pages/Home.swift": !dirty [1740324282, 9291545]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Site.swift": !dirty [1740325036, 60049192]
+  "/Users/luisgustavo/Dev/landing-page-v2/Sources/Themes/MainTheme.swift": !dirty [1740319966, 554107438]

@@ -29,9 +29,6 @@ struct PortfolioSite: Site {
     // Content
     var homePage = Home(language: .english)
     var theme = MyTheme()
-    
-    // GitHub Pages configuration
-    var deploymentTarget = DeploymentTarget.gitHub("luisgustavob1/portfolio")
 }
 
 

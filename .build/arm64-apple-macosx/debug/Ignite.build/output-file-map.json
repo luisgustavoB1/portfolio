@@ -1,0 +1,791 @@
+{
+  "": {
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/master.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Actions/Action.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Action.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Action.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Action~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Action.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Actions/CustomAction.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CustomAction.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CustomAction.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CustomAction~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CustomAction.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Actions/EventModifiers.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EventModifiers.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EventModifiers.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EventModifiers~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EventModifiers.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Actions/HideElement.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HideElement.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HideElement.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HideElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HideElement.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Actions/ShowAlert.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ShowAlert.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ShowAlert.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ShowAlert~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ShowAlert.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Actions/ShowElement.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ShowElement.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ShowElement.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ShowElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ShowElement.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Components/FeedLink.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedLink.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedLink.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedLink~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedLink.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Components/IgniteFooter.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/IgniteFooter.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/IgniteFooter.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/IgniteFooter~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/IgniteFooter.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Accordion.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Accordion.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Accordion.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Accordion~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Accordion.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Alert.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Alert.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Alert.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Alert~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Alert.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Badge.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Badge.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Badge.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Badge~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Badge.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Body.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Body.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Body.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Body~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Body.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Button.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Button.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Button.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Button~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Button.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/ButtonGroup.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ButtonGroup.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ButtonGroup.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ButtonGroup~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ButtonGroup.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Card.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Card.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Card.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Card~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Card.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Carousel.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Carousel.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Carousel.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Carousel~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Carousel.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Code.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Code.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Code.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Code~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Code.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/CodeBlock.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CodeBlock.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CodeBlock.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CodeBlock~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CodeBlock.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Column.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Column.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Column.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Column~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Column.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/ContentPreview.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ContentPreview.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ContentPreview.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ContentPreview~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ContentPreview.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Divider.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Divider.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Divider.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Divider~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Divider.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Dropdown.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Dropdown.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Dropdown.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Dropdown~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Dropdown.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Embed.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Embed.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Embed.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Embed~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Embed.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Emphasis.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Emphasis.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Emphasis.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Emphasis~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Emphasis.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Group.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Group.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Group.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Group~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Group.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/HTML.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HTML.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HTML.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HTML~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HTML.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Head.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Head.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Head.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Head~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Head.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Image.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Image.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Image.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Image~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Image.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Include.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Include.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Include.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Include~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Include.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Item.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Item.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Item.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Item~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Item.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Link.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Link.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Link.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Link~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Link.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/List.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/List.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/List.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/List~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/List.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/ListItem.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ListItem.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ListItem.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ListItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ListItem.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/MetaLink.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MetaLink.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MetaLink.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MetaLink~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MetaLink.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/MetaTag.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MetaTag.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MetaTag.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MetaTag~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MetaTag.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/NavigationBar.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/NavigationBar.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/NavigationBar.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/NavigationBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/NavigationBar.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/PlainText.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PlainText.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PlainText.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PlainText~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PlainText.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Quote.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Quote.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Quote.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Quote~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Quote.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Row.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Row.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Row.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Row~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Row.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Script.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Script.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Script.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Script~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Script.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Section.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Section.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Section.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Section~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Section.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Slide.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Slide.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Slide.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Slide~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Slide.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Spacer.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Spacer.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Spacer.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Spacer~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Spacer.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Span.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Span.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Span.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Span~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Span.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Strikethrough.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Strikethrough.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Strikethrough.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Strikethrough~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Strikethrough.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Strong.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Strong.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Strong.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Strong~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Strong.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Table.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Table.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Table.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Table~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Table.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Tag.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Tag.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Tag.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Tag~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Tag.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Text.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Text.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Text.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Text~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Text.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Title.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Title.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Title.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Title~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Title.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Elements/Underline.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Underline.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Underline.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Underline~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Underline.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/Array-ContainsLocation.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-ContainsLocation.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-ContainsLocation.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-ContainsLocation~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-ContainsLocation.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/Array-DefinitelyNotAHack.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-DefinitelyNotAHack.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-DefinitelyNotAHack.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-DefinitelyNotAHack~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-DefinitelyNotAHack.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/Array-ElementRendering.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-ElementRendering.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-ElementRendering.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-ElementRendering~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-ElementRendering.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/Array-LocalizedContains.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-LocalizedContains.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-LocalizedContains.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-LocalizedContains~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-LocalizedContains.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/Array-Sorting.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-Sorting.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-Sorting.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-Sorting~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Array-Sorting.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/Date-RFC822.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Date-RFC822.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Date-RFC822.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Date-RFC822~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Date-RFC822.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/String-AbsoluteLinks.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-AbsoluteLinks.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-AbsoluteLinks.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-AbsoluteLinks~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-AbsoluteLinks.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/String-EscapedForJavaScript.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-EscapedForJavaScript.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-EscapedForJavaScript.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-EscapedForJavaScript~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-EscapedForJavaScript.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/String-Slug.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-Slug.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-Slug.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-Slug~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-Slug.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/String-SplitAndTrim.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-SplitAndTrim.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-SplitAndTrim.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-SplitAndTrim~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-SplitAndTrim.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/String-StrippingTags.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-StrippingTags.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-StrippingTags.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-StrippingTags~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/String-StrippingTags.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/URL-PackageDirectory.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-PackageDirectory.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-PackageDirectory.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-PackageDirectory~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-PackageDirectory.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/URL-Relative.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-Relative.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-Relative.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-Relative~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-Relative.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/URL-RemovingWWW.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-RemovingWWW.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-RemovingWWW.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-RemovingWWW~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-RemovingWWW.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Extensions/URL-Unwrapped.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-Unwrapped.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-Unwrapped.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-Unwrapped~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/URL-Unwrapped.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Component.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Component.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Component.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Component~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Component.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Content.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Content.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Content.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Content~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Content.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/ContentPage.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ContentPage.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ContentPage.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ContentPage~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ContentPage.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/ElementTypes/BaseElement.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BaseElement.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BaseElement.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BaseElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BaseElement.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/ElementTypes/BlockElement.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BlockElement.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BlockElement.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BlockElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BlockElement.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/ElementTypes/HTMLRootElement.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HTMLRootElement.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HTMLRootElement.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HTMLRootElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HTMLRootElement.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/ElementTypes/HeadElement.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HeadElement.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HeadElement.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HeadElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HeadElement.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/ElementTypes/InlineElement.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/InlineElement.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/InlineElement.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/InlineElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/InlineElement.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/ElementTypes/PageElement.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PageElement.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PageElement.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PageElement~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PageElement.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/EmptyTagPage.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EmptyTagPage.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EmptyTagPage.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EmptyTagPage~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EmptyTagPage.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Event.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Event.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Event.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Event~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Event.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/FeedConfiguration.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedConfiguration.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedConfiguration.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedConfiguration.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Language.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Language.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Language.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Language~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Language.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Robots/DefaultRobotsConfiguration.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DefaultRobotsConfiguration.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DefaultRobotsConfiguration.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DefaultRobotsConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DefaultRobotsConfiguration.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Robots/DisallowRule.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DisallowRule.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DisallowRule.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DisallowRule~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DisallowRule.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Robots/KnownRobot.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/KnownRobot.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/KnownRobot.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/KnownRobot~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/KnownRobot.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Robots/RobotsConfiguration.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/RobotsConfiguration.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/RobotsConfiguration.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/RobotsConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/RobotsConfiguration.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Site.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Site.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Site.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Site~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Site.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/StaticPage.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/StaticPage.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/StaticPage.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/StaticPage~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/StaticPage.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/SyntaxHighlighter.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SyntaxHighlighter.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SyntaxHighlighter.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SyntaxHighlighter~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SyntaxHighlighter.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/TagPage.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/TagPage.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/TagPage.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/TagPage~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/TagPage.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/Theme.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Theme.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Theme.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Theme~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Theme.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Framework/ThemedPage.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ThemedPage.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ThemedPage.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ThemedPage~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ThemedPage.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Ignite.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Ignite.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Ignite.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Ignite~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Ignite.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/AccessibilityLabel.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AccessibilityLabel.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AccessibilityLabel.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AccessibilityLabel~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AccessibilityLabel.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/AspectRatio.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AspectRatio.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AspectRatio.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AspectRatio~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AspectRatio.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/BackgroundColor.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BackgroundColor.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BackgroundColor.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BackgroundColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/BackgroundColor.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/CornerRadius.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CornerRadius.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CornerRadius.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CornerRadius~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CornerRadius.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/ForegroundStyle.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ForegroundStyle.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ForegroundStyle.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ForegroundStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ForegroundStyle.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/Frame.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Frame.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Frame.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Frame~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Frame.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/Hidden.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Hidden.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Hidden.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Hidden~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Hidden.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/Hint.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Hint.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Hint.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Hint~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Hint.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/HorizontalAlignment.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HorizontalAlignment.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HorizontalAlignment.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HorizontalAlignment~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/HorizontalAlignment.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/LazyLoadable.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/LazyLoadable.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/LazyLoadable.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/LazyLoadable~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/LazyLoadable.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/Margin.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Margin.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Margin.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Margin~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Margin.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/Opacity.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Opacity.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Opacity.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Opacity~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Opacity.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/Padding.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Padding.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Padding.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Padding~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Padding.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/Position.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Position.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Position.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Position~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Position.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/Shadow.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Shadow.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Shadow.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Shadow~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Shadow.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Modifiers/TextSelection.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/TextSelection.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/TextSelection.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/TextSelection~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/TextSelection.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Publishing/FeedGenerator.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedGenerator.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedGenerator.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/FeedGenerator.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Publishing/Location.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Location.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Location.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Location~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Location.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Publishing/PublishingContext.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PublishingContext.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PublishingContext.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PublishingContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PublishingContext.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Publishing/PublishingError.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PublishingError.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PublishingError.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PublishingError~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/PublishingError.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Publishing/RobotsGenerator.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/RobotsGenerator.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/RobotsGenerator.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/RobotsGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/RobotsGenerator.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Publishing/SiteMapGenerator.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SiteMapGenerator.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SiteMapGenerator.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SiteMapGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SiteMapGenerator.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Publishing/SyntaxHighlightGenerator.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SyntaxHighlightGenerator.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SyntaxHighlightGenerator.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SyntaxHighlightGenerator~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SyntaxHighlightGenerator.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Rendering/AttributeValue.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AttributeValue.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AttributeValue.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AttributeValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/AttributeValue.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Rendering/ElementBuilder.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ElementBuilder.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ElementBuilder.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ElementBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ElementBuilder.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Rendering/MarkdownToHTML.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MarkdownToHTML.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MarkdownToHTML.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MarkdownToHTML~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MarkdownToHTML.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Rendering/Page.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Page.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Page.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Page~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Page.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/Color.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Color.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Color.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Color~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Color.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/ColumnWidth.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ColumnWidth.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ColumnWidth.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ColumnWidth~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/ColumnWidth.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/CoreAttributes.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CoreAttributes.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CoreAttributes.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CoreAttributes~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/CoreAttributes.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/DiagonalEdge.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DiagonalEdge.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DiagonalEdge.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DiagonalEdge~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DiagonalEdge.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/Edge.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Edge.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Edge.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Edge~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Edge.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/EdgeAdjust.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EdgeAdjust.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EdgeAdjust.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EdgeAdjust~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EdgeAdjust.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/Font.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Font.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Font.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Font~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Font.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/OrderedListStyle.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/OrderedListStyle.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/OrderedListStyle.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/OrderedListStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/OrderedListStyle.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/Role.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Role.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Role.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Role~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/Role.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/SpacingAmount.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SpacingAmount.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SpacingAmount.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SpacingAmount~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/SpacingAmount.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Styles/UnorderedListStyle.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/UnorderedListStyle.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/UnorderedListStyle.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/UnorderedListStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/UnorderedListStyle.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Themes/EmptyTheme.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EmptyTheme.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EmptyTheme.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EmptyTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/EmptyTheme.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/Ignite/Themes/MissingTheme.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MissingTheme.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MissingTheme.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MissingTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/MissingTheme.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/resource_bundle_accessor.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/Ignite.build/resource_bundle_accessor.swiftdeps"
+  }
+}

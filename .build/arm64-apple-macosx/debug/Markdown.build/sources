@@ -1,0 +1,69 @@
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/ChildIndexPath.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/DirectiveArgument.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/Document.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/LiteralMarkup.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/Markup.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/MarkupChildren.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/MarkupData.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/PlainTextConvertibleMarkup.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/RawMarkup.swift
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/BlockDirective.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/BlockQuote.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/CustomBlock.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenDiscussion.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenNote.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenParameter.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenReturns.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/ListItem.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/OrderedList.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/UnorderedList.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Inline Container Blocks/Paragraph.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/CodeBlock.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/HTMLBlock.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/Heading.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/ThematicBreak.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/Table.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableBody.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableCell.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableCellContainer.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableHead.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableRow.swift'
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Infrastructure/Replacement.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Infrastructure/SourceLocation.swift
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Emphasis.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Image.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/InlineAttributes.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Link.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Strikethrough.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Strong.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/CustomInline.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/InlineCode.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/InlineHTML.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/LineBreak.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/SoftBreak.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/SymbolLink.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/Text.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Interpretive Nodes/Aside.swift'
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/BlockDirectiveParser.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/CommonMarkConverter.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/LazySplitLines.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/ParseOptions.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/RangeAdjuster.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/RangerTracker.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Rewriter/MarkupRewriter.swift
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BasicBlockContainer.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BasicInlineContainer.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BlockContainer.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BlockMarkup.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/InlineContainer.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/InlineMarkup.swift'
+'/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/ListItemContainer.swift'
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Utility/AtomicCounter.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Utility/CharacterExtensions.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Utility/CollectionExtensions.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Utility/StringExtensions.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Visitor/MarkupVisitor.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Walker/MarkupWalker.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/HTMLFormatter.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/MarkupFormatter.swift
+/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/MarkupTreeDumper.swift

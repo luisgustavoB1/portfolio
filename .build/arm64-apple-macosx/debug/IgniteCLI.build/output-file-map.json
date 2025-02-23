@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/master.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/IgniteCLI/BuildCommand.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/BuildCommand.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/BuildCommand.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/BuildCommand~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/BuildCommand.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/IgniteCLI/IgniteCLI.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/IgniteCLI.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/IgniteCLI.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/IgniteCLI~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/IgniteCLI.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/IgniteCLI/NewCommand.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/NewCommand.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/NewCommand.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/NewCommand~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/NewCommand.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/IgniteCLI/Process-Execute.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/Process-Execute.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/Process-Execute.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/Process-Execute~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/Process-Execute.swiftdeps"
+  },
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/Ignite/Sources/IgniteCLI/RunCommand.swift": {
+    "dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/RunCommand.d",
+    "object": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/RunCommand.swift.o",
+    "swiftmodule": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/RunCommand~partial.swiftmodule",
+    "swift-dependencies": "/Users/luisgustavo/Dev/landing-page-v2/.build/arm64-apple-macosx/debug/IgniteCLI.build/RunCommand.swiftdeps"
+  }
+}

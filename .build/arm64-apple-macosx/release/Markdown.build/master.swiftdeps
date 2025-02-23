@@ -1,0 +1,106 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "f12b6619528048b7e28a388145204e3059266930ea757a5a1c060becbf5288cf"
+build_start_time: [1740325384, 278100000]
+build_end_time: [1740325391, 6654000]
+inputs:
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/ChildIndexPath.swift": [1740324844, 772043423]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/DirectiveArgument.swift": [1740324844, 772130884]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/Document.swift": [1740324844, 772228637]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/LiteralMarkup.swift": [1740324844, 772307764]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/Markup.swift": [1740324844, 772413517]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/MarkupChildren.swift": [1740324844, 772488728]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/MarkupData.swift": [1740324844, 772560313]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/PlainTextConvertibleMarkup.swift": [1740324844, 772638274]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Base/RawMarkup.swift": [1740324844, 772751027]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/BlockDirective.swift"
+  : [1740324844, 772912115]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/BlockQuote.swift"
+  : [1740324844, 773006284]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/CustomBlock.swift"
+  : [1740324844, 773085120]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenDiscussion.swift"
+  : [1740324844, 773217374]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenNote.swift"
+  : [1740324844, 773297584]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenParameter.swift"
+  : [1740324844, 773371878]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenReturns.swift"
+  : [1740324844, 773439755]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/ListItem.swift"
+  : [1740324844, 773513216]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/OrderedList.swift"
+  : [1740324844, 773582551]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/UnorderedList.swift"
+  : [1740324844, 773663137]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Inline Container Blocks/Paragraph.swift"
+  : [1740324844, 773807224]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/CodeBlock.swift": [1740324844, 773922394]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/HTMLBlock.swift": [1740324844, 773997646]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/Heading.swift": [1740324844, 774080690]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/ThematicBreak.swift"
+  : [1740324844, 774163693]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/Table.swift": [1740324844, 774284280]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableBody.swift": [1740324844, 774362907]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableCell.swift": [1740324844, 774443993]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableCellContainer.swift"
+  : [1740324844, 774521287]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableHead.swift": [1740324844, 774606039]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableRow.swift": [1740324844, 774689708]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Infrastructure/Replacement.swift": [1740324844, 774868213]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Infrastructure/SourceLocation.swift": [1740324844, 774944215]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Emphasis.swift"
+  : [1740324844, 775096053]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Image.swift"
+  : [1740324844, 775172222]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/InlineAttributes.swift"
+  : [1740324844, 775245349]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Link.swift"
+  : [1740324844, 775324685]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Strikethrough.swift"
+  : [1740324844, 775401770]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Strong.swift"
+  : [1740324844, 775477023]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/CustomInline.swift"
+  : [1740324844, 775603568]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/InlineCode.swift"
+  : [1740324844, 775683070]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/InlineHTML.swift"
+  : [1740324844, 775758531]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/LineBreak.swift"
+  : [1740324844, 775825449]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/SoftBreak.swift"
+  : [1740324844, 775890534]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/SymbolLink.swift"
+  : [1740324844, 775957661]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/Text.swift": [1740324844, 776032163]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Interpretive Nodes/Aside.swift": [1740324844, 776156584]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/BlockDirectiveParser.swift": [1740324844, 777448538]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/CommonMarkConverter.swift": [1740324844, 777569208]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/LazySplitLines.swift": [1740324844, 777665044]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/ParseOptions.swift": [1740324844, 777749172]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/RangeAdjuster.swift": [1740324844, 777825091]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Parser/RangerTracker.swift": [1740324844, 777897134]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Rewriter/MarkupRewriter.swift": [1740324844, 778027555]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BasicBlockContainer.swift"
+  : [1740324844, 778149808]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BasicInlineContainer.swift"
+  : [1740324844, 778234477]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BlockContainer.swift"
+  : [1740324844, 778329397]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BlockMarkup.swift"
+  : [1740324844, 778416274]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/InlineContainer.swift"
+  : [1740324844, 778503235]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/InlineMarkup.swift"
+  : [1740324844, 778578237]
+  ? "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/ListItemContainer.swift"
+  : [1740324844, 778652031]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Utility/AtomicCounter.swift": [1740324844, 778767451]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Utility/CharacterExtensions.swift": [1740324844, 778850745]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Utility/CollectionExtensions.swift": [1740324844, 778919622]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Utility/StringExtensions.swift": [1740324844, 778987999]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Visitor/MarkupVisitor.swift": [1740324844, 779121628]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Walker/MarkupWalker.swift": [1740324844, 779242340]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/HTMLFormatter.swift": [1740324844, 779368010]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/MarkupFormatter.swift": [1740324844, 779485430]
+  "/Users/luisgustavo/Dev/landing-page-v2/.build/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/MarkupTreeDumper.swift": [1740324844, 779575391]
