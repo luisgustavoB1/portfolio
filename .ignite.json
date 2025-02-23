@@ -1,0 +1,12 @@
+{
+    "output": "Build",
+    "baseUrl": "https://luisgustavob1.github.io/portfolio",
+    "preview": {
+        "port": 8000,
+        "host": "127.0.0.1"
+    },
+    "deployment": {
+        "type": "github",
+        "branch": "main"
+    }
+} 
